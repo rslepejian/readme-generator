@@ -1,7 +1,7 @@
 # Readme Generator
 
 ## Description
-This is an application that runs in the command line using node to generate a readme file. The user is asked a series of questions and a readme is generated based on their responses.
+This is an application that runs in the command line using node to generate a readme file. The user is asked a series of questions and a readme is generated based on their responses. To use this application you must first download node, and run npm install in the directory in which the application is installed.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
